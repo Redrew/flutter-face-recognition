@@ -1,8 +1,7 @@
-# flutter_face_recognition
-
-Android application id: flutter.face_recognition
+# flutter_mask_detection
 
 ## Setup
+- Set your android application id to `flutter.face_recognition` in android/app/build.gradle
 - Create a new firebase project in the [firebase console](https://console.firebase.google.com/)
 - Provide the Android application id as specified
 - Download the google-services.json file and place it in the android/app directory

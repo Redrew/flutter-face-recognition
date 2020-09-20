@@ -3,7 +3,7 @@ import 'dart:ui' as ui;
 
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_face_recognition/image_tool.dart';
+import 'package:flutter_mask_detection/image_tool.dart';
 import 'package:http/http.dart' as http;
 import 'package:image_picker/image_picker.dart';
 
