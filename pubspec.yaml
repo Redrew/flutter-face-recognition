@@ -33,7 +33,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   # Check that you have this dependency (added in the previous step)
-  firebase_core: ^0.4.0+9
   image_picker: ^0.6.1+4
   firebase_ml_vision: ^0.9.2+1
   http: ^0.12.2
